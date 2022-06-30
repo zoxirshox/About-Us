@@ -1,0 +1,33 @@
+.last-section__inner {
+  transform: translateY(800px);
+}
+
+.last-section__inner-title {
+  margin-bottom: 72px;
+  color: #83888F;
+  font-size: 24px;
+}
+
+.last-section__inner__cards-wrapper {
+  display: flex;
+  gap: 150px;
+}
+
+.last-section__inner__cards-wrapper_card {
+
+  img {
+      margin-bottom: 40px;
+  }
+
+  h3 {
+      font-size: 32px;
+      color: #333D4B;
+  }
+
+  p{
+      font-family: 'Barlow';
+      font-size: 16px;
+      color: #333D4B;
+  }
+
+} 

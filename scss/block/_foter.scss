@@ -1,0 +1,27 @@
+.about-us-footer__inner {
+  display: flex;
+  align-items: center;
+  background-color: #2C343E;
+  margin-top: 950px;
+}
+
+.about-us-footer__inner__nav {
+  ul {
+      list-style-type: none;
+      display: flex;
+      gap: 30px;
+  }
+
+  a {
+      text-decoration: none;
+      color: #83888F;
+  }
+}
+
+.about-us-footer__inner__logo {
+  padding: 50px 115px;
+}
+
+.about-us-footer__inner__apps {
+  margin-left: 250px;
+} 
